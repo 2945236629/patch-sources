@@ -33,6 +33,15 @@
             "param": [],
             "args_num": 5,
             "id": 174
-        }
+        },
+        {
+            "analyze": "[sprite name=iconHit]随机改为{0}~{1}点[color=#52a5f2]威力[/color]（boss有效）",
+            "info": "随机改为{0}~{1}点威力",
+            "param": [],
+            "args_num": 2,
+            "id": 118,
+            "key": "",
+            "type": 0
+      },
     ]
 }
