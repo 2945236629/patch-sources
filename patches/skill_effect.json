@@ -78,6 +78,21 @@
             "tagBboss": 0,
             "tagC": "",
             "tagCboss": 0
+        },
+        {
+          "Bosseffective": 0,
+          "argsNum": 2,
+          "formattingAdjustment": "",
+          "id": 118,
+          "ifTextItalic": "",
+          "info": "随机改为{0}~{1}点威力",
+          "isif": 0,
+          "tagA": "",
+          "tagAboss": 0,
+          "tagB": "",
+          "tagBboss": 0,
+          "tagC": "",
+          "tagCboss": 0
         }
     ]
 }
